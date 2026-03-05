@@ -14,7 +14,7 @@ export default function Home() {
           </h1>
           
           <p className="text-xl md:text-2xl text-slate-300 font-light max-w-2xl mx-auto leading-relaxed">
-            We're crafting something extraordinary. 
+            We&apos;re crafting something extraordinary. 
             <span className="block mt-2 text-purple-300">Stay tuned for the reveal.</span>
           </p>
         </div>
