@@ -35,3 +35,28 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# drizzle
+/drizzle
+
+# documentation (keep in repo but ignore generated docs)
+# PRD.md is kept for reference
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
+logs/
+
+# temporary files
+*.tmp
+.temp/
